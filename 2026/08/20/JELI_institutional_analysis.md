@@ -1,7 +1,7 @@
 # INSTITUTIONAL EQUITY RESEARCH — JELI (20 Agustus 2026)
 
-**Company:** PT Jelajah Laut Indonesia Tbk. (`JELI`)  
-**Sector / Sub-Sector:** Barang Konsumen Primer / Makanan Olahan  
+**Company:** PT Niramas Utama Tbk. (`JELI`) — *Produsen INACO / Nata de Coco & Jelly*  
+**Sector / Sub-Sector:** Barang Konsumen Primer / Makanan & Minuman  
 **Trading Horizon:** **Short Swing (2 – 5 Hari)**  
 **Market Session:** Sesi II (14:28 WIB)  
 **Syariah Status:** **✅ Terdaftar Saham Syariah (ISSI)**
