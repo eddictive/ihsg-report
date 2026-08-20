@@ -1,8 +1,8 @@
 # MARKET RADAR — 20 Agustus 2026
 
-**Focus:** Market Outlook IHSG & 10 Saham Rekomendasi Intraday
-**Session:** Closed — using last session 20 Aug (WIB)
-**Foreign-flow note:** EOD same session (as of 20 Aug 2026)
+**Focus:** Market Outlook IHSG & 10 Saham Rekomendasi Intraday 
+**Session:** Closed — using last session 20 Aug (WIB) 
+**Foreign-flow note:** EOD same session (as of 20 Aug 2026) 
 
 ## 1. Verdict (30 seconds)
 | | |
