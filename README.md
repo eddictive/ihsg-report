@@ -77,26 +77,15 @@ Seluruh laporan diarsipkan secara kronologis berbasis partisi tanggal `YYYY/MM/D
 
 ```text
 report/
-├── 2026/
-│   └── 08/
-│       ├── 20/
-│       │   ├── AMMN_institutional_analysis.md
-│       │   └── MARKET_scanner_daily_recap_syariah_intraday.md
-│       ├── 21/
-│       │   ├── ACES_institutional_analysis.md
-│       │   ├── BAIK_institutional_analysis.md
-│       │   ├── DMAS_institutional_analysis.md
-│       │   └── ...
-│       ├── 27/
-│       │   ├── IKBI_sentiment_analysis.md
-│       │   ├── IKBI_technical_analysis_short_swing.md
-│       │   └── MARKET_scanner_sesi2_macro.md
-│       ├── 28/
-│       │   ├── BELL_institutional_analysis.md
-│       │   └── BELL_technical_analysis_longterm.md
-│       └── 29/
-│           ├── SSIA_institutional_analysis.md
-│           └── SSIA_technical_analysis_swing.md
+└── YYYY/
+    └── MM/
+        └── DD/
+            ├── [TICKER]_institutional_analysis.md
+            ├── [TICKER]_technical_analysis_[mode].md
+            ├── [TICKER]_fundamental_analysis.md
+            ├── [TICKER]_sentiment_analysis.md
+            ├── [TICKER]_detector.md
+            └── MARKET_scanner_[focus].md
 ```
 
 ### Konvensi Penamaan Laporan:
