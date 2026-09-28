@@ -1,140 +1,111 @@
-# 🏦 MARKET REGIME — IHSG Daily Recap & Outlook
+### MACRO REGIME — IHSG
 
-**Tanggal Analisis:** Jumat, 25 September 2026 (Data EOD)  
-**Horizon:** Short Swing (2–7 hari)  
-**Eksekusi:** Manual — Advisory Only
-
----
-
-## §1. VERDIKT REGIME (30 Detik)
-
-| Parameter | Nilai |
-|-----------|-------|
-| **Regime** | ⚠️ **Risk-Off** (tekanan jual dominan) |
-| **Skor Regime** | **−4.8 / −10…+10** (lean defensif kuat) |
-| **IHSG** | **6,241.89** (−56.72 / −0.90%) |
-| **Foreign Flow** | **Net Sell Rp −440.4 Miliar** (reguler) / **Rp −559.1 Miliar** (all market termasuk nego) |
-| **Partisipasi Asing** | 30.9% dari total value |
-| **Print Asing** | Full-day (end-of-day) |
-
-**Satu Kalimat:** Pasar dalam tekanan risk-off — asing net jual signifikan, narasi hawkish Fed menguat, dan geopolitik Iran masih membayangi. Defensif dengan half-size.
+**Horizon: Short Swing (2–7 Hari)**  
+**As of 25 Sep 2026 (Pasar Tutup — Sesi Akhir Pekan)** · IHSG **6.241,89 (-0,90% sesi ini)**
 
 ---
 
-## §2. Apa yang Harus Dilakukan
+### 1. Regime verdict (30 seconds)
 
-- **Kurangi eksposur agresif** — market bias defensif, foreign flow negatif
-- **Fokus pada saham dengan fundamental kuat** dan cash flow positif (zero debt/defensif)
-- **Hindari chase** — tunggu konfirmasi teknikal di zona demand sebelum entry
-- **Saham dividend yield tinggi** dengan neraca bersih menjadi safe haven relatif
-- **Half-size** pada semua setup baru sampai foreign flow reversal
+| Parameter | Pembacaan |
+| :--- | :--- |
+| **Regime** | **Risk-Off** (Net Headwind untuk Pasar Saham Domestik) |
+| **Regime score** | **-4,8 / −10…+10** — Pilar foreign flow dan suku bunga global mendominasi ke arah defensif |
+| **Foreign flow** | Net foreign selling sebesar **Rp440,38 Miliar** (Pasar Reguler) / **Rp559,07 Miliar** (All Market) — cetakan penuh akhir hari (*full-day EOD*) |
+| **Biggest tailwind** | Stabilitas moneter domestik (BI Rate dipertahankan di 5,75% in-line ekspektasi) |
+| **Biggest headwind** | Distribusi dana asing berkelanjutan pada saham perbankan big cap & ekspektasi suku bunga global tinggi lebih lama (*higher-for-longer*) |
 
----
-
-## §3. Snapshot Makro
-
-### Pilar Regime
-
-| Pilar | Skor | Arah | Kekuatan |
-|-------|------|------|----------|
-| **Foreign Flow** | −0.75 | ⬇️ Headwind | **Kuat** — net sell Rp 440M reguler |
-| **Rates & Fed** | −0.60 | ⬇️ Headwind | **Moderat** — narasi hawkish menguat |
-| **Dollar & Rupiah** | 0.00 | ➡️ Netral | Dolar rally terjeda |
-| **Komoditas & Geopolitik** | −0.80 | ⬇️ Headwind | **Moderat-kuat** — konflik Iran masih berlangsung |
-| **Risk Sentiment** | 0.00 | ➡️ Netral | Mixed signal |
-
-### Kalender Ekonomi — Rilis Penting
-
-| Event | Aktual | Forecast | Surprise |
-|-------|--------|----------|----------|
-| 🇮🇩 BI Rate Decision | 5.75% | 5.75% | Sesuai ekspektasi |
-| 🇮🇩 Lending Facility Rate | 6.50% | 6.50% | Sesuai ekspektasi |
-| 🇮🇩 M2 Money Supply (YoY) | 8.2% | — | Sesuai (vs 8.3% prev) |
-| 🇮🇩 Loans (YoY) | 13.65% | — | Naik (vs 13.58% prev) |
-| 🇺🇸 Manufacturing PMI | 57.0 | 53.6 | **Di atas forecast** ✅ |
-| 🇺🇸 Services PMI | 58.7 | 55.8 | **Di atas forecast** ✅ |
-| 🇺🇸 Initial Jobless Claims | 197K | 201K | **Di atas forecast** (labor kuat) |
-| 🇺🇸 New Home Sales | 684K | 615K | **Di atas forecast** |
-| 🇺🇸 Durable Goods | 0.0% | −0.3% | **Di atas forecast** |
-| 🇺🇸 Crude Oil Inventories | +2.969M | −0.7M | **Di bawah forecast** ❌ |
-
-**Interpretasi:** BI tahan suku bunga sesuai ekspektasi — netral untuk IHSG. Namun data AS menunjukkan ekonomi masih panas (PMI, labor, housing beat), memperkuat narasi hawkish Fed yang menekan EM flows.
+**One-liner:** Tekanan *net foreign sell* dan data ekonomi AS yang resilien menahan ruang gerak IHSG, menuntut pendekatan defensif berbasis *stock-picking* selektif di awal pekan depan.
 
 ---
 
-## §4. Foreign Flow & Market Internals
+### 2. What to do
 
-- **Net foreign regular:** Rp −440.4 Miliar (net sell)
-- **All-market (termasuk nego):** Rp −559.1 Miliar
-- **Volume net foreign:** −27.1 juta lembar (reguler) / −258.3 juta lembar (all market)
-- **Frekuensi asing:** Sell 299K vs Buy 175K transaksi — 71% lebih banyak transaksi jual
-
-**Kesimpulan:** Tekanan jual asing masif baik di board reguler maupun negosiasi. Block trade (tunai/nego) menambah Rp 118.7 Miliar outflow tambahan — sinyal repositioning institusional.
-
----
-
-## §5. Penggerak Indeks (IDX80 Weighted)
-
-### Top 10 Penekan IHSG
-| # | Ticker | Session % |
-|---|--------|-----------|
-| 1 | ASII | −1.68% |
-| 2 | BRPT | −3.21% |
-| 3 | BRMS | −2.94% |
-| 4 | INDF | −2.88% |
-| 5 | ICBP | −4.66% |
-| 6 | TPIA | −1.10% |
-| 7 | BUMI | −1.62% |
-| 8 | EXCL | −2.92% |
-| 9 | ANTM | −1.22% |
-| 10 | BBNI | −0.57% |
-
-### Top 10 Penopang IHSG
-| # | Ticker | Session % |
-|---|--------|-----------|
-| 1 | BBCA | +0.40% |
-| 2 | AMRT | +1.95% |
-| 3 | BBRI | +0.32% |
-| 4 | BMRI | +0.25% |
-| 5 | ADRO | +1.56% |
-| 6 | ENRG | +1.15% |
-| 7 | ITMG | +1.80% |
-| 8 | INKP | +0.92% |
-| 9 | PTBA | +1.31% |
-| 10 | AADI | +0.90% |
-
-**Pola:** Consumer staples (ICBP −4.66%, INDF −2.88%) dan konglomerat (ASII) memimpin pelemahan. Perbankan besar (BBCA, BBRI, BMRI) masih menopang tipis. Sektor batubara/komoditas (ADRO, ITMG, PTBA) relatif tangguh.
+- **Stance (Short Swing 2–7 Hari):** *Size down* pada alokasi indeks/big cap, prioritaskan *defensive swing* atau saham lapis kedua yang memiliki struktur akumulasi *smart money* independen.
+- **Sectors that benefit:** Sektor energi & komoditas tertentu (terdorong premi risiko geopolitik minyak global) serta emiten berkinerja ekspor defensif.
+- **Sectors under pressure:** Sektor perbankan berkapitalisasi besar (*rate-sensitive* & target utama *foreign outflow*) serta properti/konstruksi ber-leverage tinggi.
+- **Don't:** Jangan agresif memburu *breakout* pada saham-saham perbankan acuan sebelum terlihat konfirmasi *inflow* asing; hindari *bottom-fishing* tanpa konfirmasi teknikal di level *support*.
+- **Invalidation:** Pembalikan arah *foreign flow* menjadi *net buy* masif di pasar reguler (>Rp500 Miliar/hari) bersamaan dengan pelemahan indeks Dolar (DXY) dan imbal hasil US Treasury.
 
 ---
 
-## §6. Headline Makro
+### 3. Macro snapshot
 
-- 🔴 **Narasi Hawkish Fed Semakin Menguat** — Treasury yields melonjak, prospek suku bunga tetap tinggi
-- 🟡 **BI Tahan Suku Bunga** — sesuai ekspektasi, mengandalkan insentif untuk jaga rupiah
-- 🔴 **Geopolitik Iran** — Senat AS tolak resolusi penghentian konflik, tetapi ada optimisme solusi diplomatik → oil turun
-- 🟡 **Dollar Rally Terjeda** — jeda sementara memberi ruang bagi EM
-
----
-
-## §7. Skenario (Horizon 2–7 Hari)
-
-| Skenario | Probabilitas | Trigger | Invalidasi |
-|----------|-------------|---------|------------|
-| **🐻 Bearish (Lanjut turun)** | **45%** | Foreign sell berlanjut, Fed rhetoric lebih hawkish, geopolitik eskalasi | IHSG bertahan di atas 6,200 dengan volume naik |
-| **📊 Base (Sideways/Konsolidasi)** | **35%** | Foreign flow stabil, kalender kosong, wait-and-see | Break di atas 6,300 atau di bawah 6,180 |
-| **🐂 Bullish (Rebound teknikal)** | **20%** | Foreign flow reversal, data AS melemah (consumer confidence turun), solusi diplomatik Iran | Foreign sell masif kembali di atas Rp 500M/hari |
+| Event | Result vs forecast | Surprise | Impact on IHSG |
+| :--- | :--- | :--- | :--- |
+| **BI Interest Rate Decision** | Aktual 5,75% \| Konsensus 5,75% \| Prev 5,75% | In line | Netral — memberikan jangkar stabilitas moneter dan inflasi domestik |
+| **US S&P Global Manufacturing PMI** | Aktual 57,0 \| Konsensus 53,6 \| Prev 53,9 | Di atas ekspektasi (*beat*) | Headwind — ekonomi AS tetap ekspansif, menunda urgensi pemangkasan suku bunga The Fed |
+| **US Initial Jobless Claims** | Aktual 197k \| Konsensus 201k \| Prev 198k | Di atas ekspektasi (*beat*) | Headwind — pasar tenaga kerja AS ketat memperkuat narasi *higher-for-longer* |
+| **Indonesia M2 Money Supply (YoY)** | Aktual 8,2% \| Prev 8,3% | In line | Netral — likuiditas moneter domestik bergerak stabil dan terkendali |
 
 ---
 
-## §8. Risiko & Sinyal Reversal
+### 4. News & sentiment layer
 
-- ⚠️ **Michigan Consumer Expectations** (forecast 45.8 vs prev 51.5) — jika lebih lemah bisa trigger "bad news = good news" rally
-- ⚠️ **FOMC Member Williams speaks** — potensi koreksi jika dovish, atau tekanan tambahan jika hawkish
-- ⚠️ **Crude oil volatility** — inventori naik signifikan (+2.97M vs exp −0.7M) bisa tekan sektor energi
+- **25 Sep 2026 — Bloomberg / CNBC:** *Surging Treasury yields & Hawkish Fed narrative* — Penguatan imbal hasil obligasi AS menekan selisih imbal hasil (*yield spread*) negara berkembang. **Dampak: Headwind moderat (Residual/Berlanjut).**
+- **25 Sep 2026 — CNBC Energy:** *Oil volatility amid Middle East geopolitical tensions* — Fluktuasi harga energi global memicu kekhawatiran biaya impor bahan bakar domestik. **Dampak: Headwind mild (Priced-in parsial).**
+- **25 Sep 2026 — IDX Channel:** *BEI Pastikan Kesiapan Anggota Bursa untuk Implementasi Saham Rp1 per 28 September* — Penyesuaian batas fraksi harga terendah di pasar saham domestik. **Dampak: Netral (Priced-in).**
+- **23 Sep 2026 — Stockbit Snips:** *BI Tahan Suku Bunga Sejalan Ekspektasi, Andalkan Insentif untuk Jaga Rupiah* — BI fokus mempertahankan stabilitas nilai tukar Rupiah dari tekanan eksternal. **Dampak: Tailwind mild (Priced-in).**
+
+**Sentimen Risiko Keseluruhan:** **Risk-Off (Defensif)** — Pasar saham domestik berada dalam tekanan rotasi likuiditas global ke aset berdenominasi Dolar AS.
 
 ---
 
-> ⚠️ *Analisis ini bersifat probabilistik dan edukatif. Bukan merupakan saran investasi. Selalu gunakan manajemen risiko Anda sendiri.*
+### 5. Foreign flow & market internals
+
+Pada penutupan perdagangan sesi akhir pekan, investor asing mencatatkan **net sell sebesar Rp440,38 Miliar** di pasar reguler dan **net sell Rp559,07 Miliar** di seluruh pasar (*all market*, termasuk transaksi pasar tunai dan negosiasi sebesar Rp118,70 Miliar). Partisipasi investor asing mencapai **30,85%** dari total nilai transaksi bursa. Arus keluar didominasi oleh pelepasan saham-saham perbankan berbobot indeks tinggi (*Big 4 Banks*), yang menjadi pemicu utama koreksi IHSG sebesar -0,90% ke level 6.241,89.
 
 ---
-© 2026 TradingSquad-AI — Institutional Research & Advisory
+
+### 6. Calendar watch (7 Hari ke Depan)
+
+| Date & Time (WIB) | Event | Expected | Potential impact |
+| :--- | :--- | :--- | :--- |
+| **01 Okt 2026 07:30** | **Indonesia S&P Global Manufacturing PMI** | Prev: 49,8 | Mengukur daya ekspansi sektor riil domestik kembali ke area ekspansif (>50) |
+| **01 Okt 2026 11:00** | **Indonesia Inflation YoY & MoM** | Prev: 3,19% YoY | Stabilitas daya beli domestik; penentu ruang pelonggaran kebijakan BI ke depan |
+| **01 Okt 2026 11:00** | **Indonesia Trade Balance** | Prev: $0,13B | Menentukan kekuatan cadangan devisa dan ketahanan Rupiah |
+| **01 Okt 2026 21:00** | **US ISM Manufacturing PMI** | Prev: 54,6 | Katalis utama volatilitas indeks Dolar (DXY) dan yield Treasury global |
+| **02 Okt 2026 19:30** | **US Nonfarm Payrolls (NFP) & Unemployment Rate** | Prev: 162k / 4,1% | Data penentu arah ekspektasi suku bunga global untuk sisa kuartal berjalan |
+
+---
+
+### 7. Scenarios Pergerakan IHSG Pekan Depan
+
+| Scenario | Probability | Trigger | What breaks it |
+| :--- | :---: | :--- | :--- |
+| **Base Case (Konsolidasi Defensif)** | **55%** | *Foreign outflow* mereda perlahan; data inflasi domestik stabil; IHSG berkonsolidasi di rentang **6.200 – 6.280**. | Penembusan ke bawah level support kunci 6.200 dengan volume transaksi tebal. |
+| **Bearish (Uji Support Kuat)** | **30%** | Tekanan jual asing berlanjut akibat rilis data tenaga kerja AS yang terlalu panas; IHSG melemah menguji area **6.150 – 6.200**. | Pembentukan *false breakdown* yang langsung direspons dengan *net buy* asing masif. |
+| **Bullish Rebound** | **15%** | Asing berbalik akumulasi bersih pada saham big cap; Rupiah menguat menopang IHSG menembus resistance **6.300 – 6.350**. | Kegagalan bertahan di atas level pivot 6.280 pada penutupan sesi 1. |
+
+---
+
+### 8. Key risks & reversal signals
+
+- **Risiko Penurunan Utama:** Penembusan batas *support* psikologis **6.200** yang dapat memicu *stop-loss cascading* pada saham-saham berkapitalisasi menengah.
+- **Indikator Pembalikan Arah (*Reversal Signals*):** Munculnya *net foreign buy* harian >Rp400 Miliar pada saham perbankan utama (BBCA/BBRI/BMRI) diiringi penurunan yield US 10-Year Treasury.
+- **Katalis Data Kritis:** Rilis data inflasi dan neraca dagang Indonesia pada 1 Oktober 2026 menjadi jangkar fundamental terpenting bagi pergerakan indeks pekan depan.
+
+---
+
+### 9. Score breakdown (plain)
+
+| Pillar | Read | Weight |
+| :--- | :--- | :---: |
+| **Foreign flow** | **Headwind kuat** (Net sell Rp440,38 Miliar di pasar reguler) | 25% |
+| **Rates & Fed** | **Headwind moderat** (Data PMI dan klaim pengangguran AS tetap panas) | 20% |
+| **Dollar & rupiah** | **Netral** (Bank Indonesia aktif menjaga stabilitas moneter) | 15% |
+| **Commodities & geopolitics** | **Headwind moderat** (Volatilitas harga energi dan premi risiko geopolitik) | 10% |
+| **Risk sentiment** | **Netral / Mixed** (Rotasi likuiditas global terkonsentrasi di aset tertentu) | 10% |
+
+**Faktor Penggerak Skor Makro:**
+- Distribusi bersih investor asing (*net foreign sell*) sebesar Rp440,38 Miliar pada penutupan akhir pekan (**headwind utama**).
+- Narasi kebijakan suku bunga ketat global yang belum mereda pasca data ekonomi AS yang ekspansif (**headwind sekunder**).
+- Eskalasi tensi geopolitik global yang memicu ketidakpastian jalur pasokan energi (**headwind tambahan**).
+
+---
+*Laporan lengkap tersimpan di `report/2026/09/25/MARKET_macro_regime_short_swing.md`.*
+
+*Disclaimer: This analysis is probabilistic and educational. It is not investment advice. Always conduct your own due diligence and use proper risk management.*
+
+---
+&copy; Copyright (c) 2026 - MasEDI.Net
